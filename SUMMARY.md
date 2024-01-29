@@ -1,15 +1,24 @@
-‌# Summary​
+# Table of contents
 
-## Use headings to create page groups like this one​
+* [👋 Welcome to A Product](README.md)
 
-* [First page’s title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
+## Overview
 
-* [Second page’s title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+* [💡 What we do](overview/what-we-do.md)
+* [✨ Our Features](overview/our-features.md)
 
-## A second-page group​
+## Product Guides
 
-* [Yet another page](another-page.md)
+* [📪 Making a post](product-guides/making-a-post.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
+
+## Fundamentals
+
+* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+
+## Use Cases
+
+* [🎨 For Designers](use-cases/for-designers.md)
+* [🖥 For Developers](use-cases/for-developers.md)
