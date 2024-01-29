@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to synthetic assets](README.md)
 
 ## Overview
 
@@ -22,3 +22,7 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
+
+***
+
+* [Security](security.md)
